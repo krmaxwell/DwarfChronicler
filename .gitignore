@@ -47,5 +47,8 @@ venv
 # vim swap files
 *.swp
 
-# XML data
+# data
 *.xml
+*.json
+
+
