@@ -13,7 +13,7 @@ def main():
 
     legends = xmltodict.parse(ldata, encoding='cp437')
 
-    json.dumps(legends, indent=2)
+    print json.dumps(legends, indent=2)
 
 
 if __name__ == "__main__":
