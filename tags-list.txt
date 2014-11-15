@@ -1,0 +1,96 @@
+<df_world>
+
+
+<regions>
+ <region>
+  <id>
+  <name>
+  <type>
+<underground_regions>
+ <underground_region>
+  <id>
+  <type>
+  <depth>
+<sites>
+ <site>
+  <id>
+  <type>
+  <name>
+  <coords>
+  <structures>
+<world_constructions>
+ <world_construction>
+  <id>
+<artifacts>
+ <artifact>
+  <id>
+  <name>
+  <item>
+<historical_figures>
+ <historical_figure>
+  <id>
+  <name>
+  <race>
+  <caste>
+  <appeared>
+  <birth_year>
+  <birht_seconds72>
+  <death_year>
+  <death_seconds72>
+  <associated_type>
+  <entity_link>
+   ...
+  <site_link>
+   ...
+  <sphere>
+  <hf_skill>
+   ...
+  <interaction_knowledge>
+  <journey_pet>
+  <hf_link>
+   ...
+  <deity/>
+  <entity_former_position_link>
+   ...
+  <entity_position_link>
+   ...
+  <ent_pop_id>
+  <active_interaction>
+  <goal>
+  <force/>
+  <entity_reputation>
+   ...
+  <current_identity_id>
+  <holds_artifact>
+  <animated/>
+  <animated_string>
+  <ghost/>
+  <adventurer/>
+<entity_populations>
+ <entity_population>
+  <id>
+<entities>
+ <entity>
+  <id>
+  <name>
+<historical_events>
+ <historical_event>
+  <id>
+  <year>
+  <seconds72>
+  <type>
+  (each type has differnet tags, there are a lot of types..)
+<historical_event_collections>
+ <historical_event_collection>
+  <id>
+  <start_year>
+  <start_seconds72>
+  <end_year>
+  <end_seconds72>
+  <event>
+  <type>
+  (each type has differnet tags, there are a lot of types..)
+<historical_eras>
+ <historical_era>
+  <name>
+  <start_year>
